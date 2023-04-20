@@ -6,8 +6,8 @@ int main()
 {
 
     // prints hello world
-    printf("Hello World");
-    printf("Hi Jassy, I'm Princess");
+    printf("Hi Jas");
+    printf("Im Gelie Ann");
 
     return 0;
 }	
