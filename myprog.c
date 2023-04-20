@@ -7,6 +7,7 @@ int main()
 
     // prints hello world
     printf("Hello World");
+    printf("Hi Jassy, I'm Princess");
 
     return 0;
 }	
